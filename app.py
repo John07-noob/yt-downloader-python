@@ -3,7 +3,7 @@
 
 import pytube
 from pytube import YouTube
-path = (/home/john/Downloads)
+path = ('/home/john/Downloads')
 
 print("Welcome to YT Video Downloader")          # Welcoming user
 link = input("Insert Youtube links here: ")      # Ask usr youtube url
